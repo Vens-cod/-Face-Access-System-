@@ -1,0 +1,690 @@
+[
+  {
+    "timestamp": "2024-01-01 10:00:00",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 0.85,
+    "live_confidence": 0.92,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2024-01-01 10:05:00",
+    "access_granted": false,
+    "reason": "尾随告警",
+    "alert_type": "tailgating",
+    "face_count": 3
+  },
+  {
+    "timestamp": "2026-04-27 17:17:24",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 17:18:08",
+    "access_granted": false,
+    "employee_id": null,
+    "similarity": 0,
+    "reason": "未找到匹配员工",
+    "live_confidence": 0.9995951652526855,
+    "attributes": {
+      "age": 22,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.65283203125
+    }
+  },
+  {
+    "timestamp": "2026-04-27 17:24:28",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 17:24:30",
+    "access_granted": false,
+    "employee_id": null,
+    "similarity": 0,
+    "reason": " ⾼频通⾏告警：检测到异常⾼频通⾏",
+    "alert_type": "frequency",
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 17:24:30",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 17:24:31",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 17:49:14",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 17:49:27",
+    "access_granted": false,
+    "employee_id": null,
+    "similarity": 0,
+    "reason": "活体检测失败",
+    "detail": "⾮活体攻击",
+    "live_confidence": 0.03920974209904671
+  },
+  {
+    "timestamp": "2026-04-27 17:50:36",
+    "access_granted": false,
+    "employee_id": null,
+    "similarity": 0,
+    "reason": "活体检测失败",
+    "detail": "⾮活体攻击",
+    "live_confidence": 0.03920974209904671
+  },
+  {
+    "timestamp": "2026-04-27 17:53:13",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 17:57:11",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 17:57:13",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 17:57:14",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 17:57:15",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 18:00:26",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 18:00:41",
+    "access_granted": true,
+    "employee_id": "EMP003",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 28,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.658203125
+    },
+    "live_confidence": 0.9578444361686707,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 18:00:52",
+    "access_granted": true,
+    "employee_id": "EMP002",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 30,
+      "mask": "none",
+      "expression": "happy",
+      "quality_score": 0.455078125
+    },
+    "live_confidence": 0.9999895095825195,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 18:13:50",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 18:14:01",
+    "access_granted": true,
+    "employee_id": "EMP003",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 28,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.658203125
+    },
+    "live_confidence": 0.9578444361686707,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 18:19:04",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 19:37:52",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 19:37:53",
+    "access_granted": false,
+    "employee_id": null,
+    "similarity": 0,
+    "reason": " ⾼频通⾏告警：检测到异常⾼频通⾏",
+    "alert_type": "frequency",
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 19:37:54",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 19:37:55",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 19:39:47",
+    "access_granted": false,
+    "employee_id": null,
+    "similarity": 0,
+    "reason": "未找到匹配员工",
+    "live_confidence": 0.9942195415496826,
+    "attributes": {
+      "age": 23,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.58837890625
+    }
+  },
+  {
+    "timestamp": "2026-04-27 19:40:06",
+    "access_granted": false,
+    "employee_id": null,
+    "similarity": 0,
+    "reason": " 尾随告警：检测到2⼈同时通过（授权1⼈）",
+    "alert_type": "tailgating",
+    "face_count": 2
+  },
+  {
+    "timestamp": "2026-04-27 19:40:28",
+    "access_granted": false,
+    "employee_id": null,
+    "similarity": 0,
+    "reason": "未找到匹配员工",
+    "live_confidence": 0.9797652363777161,
+    "attributes": {
+      "age": 28,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.404296875
+    }
+  },
+  {
+    "timestamp": "2026-04-27 19:41:48",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 19:54:58",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 19:55:02",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 19:55:05",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 20:06:17",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 20:06:22",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 20:07:17",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 20:08:08",
+    "access_granted": true,
+    "employee_id": "EMP002",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 28,
+      "mask": "none",
+      "expression": "happy",
+      "quality_score": 0.71875
+    },
+    "live_confidence": 0.9999985694885254,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 20:08:12",
+    "access_granted": true,
+    "employee_id": "EMP002",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 28,
+      "mask": "none",
+      "expression": "happy",
+      "quality_score": 0.71875
+    },
+    "live_confidence": 0.9999985694885254,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-27 20:08:14",
+    "access_granted": true,
+    "employee_id": "EMP002",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 28,
+      "mask": "none",
+      "expression": "happy",
+      "quality_score": 0.71875
+    },
+    "live_confidence": 0.9999985694885254,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-29 17:00:54",
+    "access_granted": true,
+    "employee_id": "EMP003",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 28,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.658203125
+    },
+    "live_confidence": 0.9578444361686707,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-29 17:10:56",
+    "access_granted": false,
+    "employee_id": null,
+    "similarity": 0,
+    "reason": " 尾随告警：检测到2⼈同时通过（授权1⼈）",
+    "alert_type": "tailgating",
+    "face_count": 2
+  },
+  {
+    "timestamp": "2026-04-29 17:15:03",
+    "access_granted": false,
+    "employee_id": null,
+    "similarity": 0,
+    "reason": " 尾随告警：检测到2⼈同时通过（授权1⼈）",
+    "alert_type": "tailgating",
+    "face_count": 2
+  },
+  {
+    "timestamp": "2026-04-29 17:15:20",
+    "access_granted": true,
+    "employee_id": "EMP003",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 28,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.658203125
+    },
+    "live_confidence": 0.9578444361686707,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-29 17:15:29",
+    "access_granted": false,
+    "employee_id": null,
+    "similarity": 0,
+    "reason": "活体检测失败",
+    "detail": "⾮活体攻击",
+    "live_confidence": 0.03920974209904671
+  },
+  {
+    "timestamp": "2026-04-29 17:15:34",
+    "access_granted": false,
+    "employee_id": null,
+    "similarity": 0,
+    "reason": "活体检测失败",
+    "detail": "⾮活体攻击",
+    "live_confidence": 0.03920974209904671
+  },
+  {
+    "timestamp": "2026-04-29 17:16:50",
+    "access_granted": true,
+    "employee_id": "EMP003",
+    "similarity": 0.96380824,
+    "attributes": {
+      "age": 26,
+      "mask": "none",
+      "expression": "happy",
+      "quality_score": 0.6220703125
+    },
+    "live_confidence": 0.8728346824645996,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-29 17:35:16",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-29 17:35:53",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-29 17:42:44",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-29 17:42:50",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-29 17:43:04",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-29 17:44:42",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 1.0,
+    "attributes": {
+      "age": 29,
+      "mask": "none",
+      "expression": "neutral",
+      "quality_score": 0.642578125
+    },
+    "live_confidence": 0.9995087385177612,
+    "face_count": 1
+  },
+  {
+    "timestamp": "2026-04-29 17:45:42",
+    "access_granted": false,
+    "employee_id": null,
+    "similarity": 0,
+    "reason": " 尾随告警：检测到2⼈同时通过（授权1⼈）",
+    "alert_type": "tailgating",
+    "face_count": 2
+  },
+  {
+    "timestamp": "2026-05-11 17:23:01",
+    "access_granted": false,
+    "employee_id": null,
+    "similarity": 0,
+    "reason": " 尾随告警：检测到2⼈同时通过（授权1⼈）",
+    "alert_type": "tailgating",
+    "face_count": 2
+  }
+]

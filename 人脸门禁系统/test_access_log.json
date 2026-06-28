@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": "2024-01-01 10:00:00",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 0.85,
+    "live_confidence": 0.92
+  },
+  {
+    "timestamp": "2024-01-01 10:05:00",
+    "access_granted": false,
+    "employee_id": null,
+    "reason": "活体检测失败",
+    "live_confidence": 0.3
+  },
+  {
+    "timestamp": "2024-01-01 10:00:00",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 0.85,
+    "live_confidence": 0.92
+  },
+  {
+    "timestamp": "2024-01-01 10:05:00",
+    "access_granted": false,
+    "employee_id": null,
+    "reason": "活体检测失败",
+    "live_confidence": 0.3
+  },
+  {
+    "timestamp": "2024-01-01 10:00:00",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 0.85,
+    "live_confidence": 0.92
+  },
+  {
+    "timestamp": "2024-01-01 10:05:00",
+    "access_granted": false,
+    "employee_id": null,
+    "reason": "活体检测失败",
+    "live_confidence": 0.3
+  },
+  {
+    "timestamp": "2024-01-01 10:00:00",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 0.85,
+    "live_confidence": 0.92
+  },
+  {
+    "timestamp": "2024-01-01 10:05:00",
+    "access_granted": false,
+    "employee_id": null,
+    "reason": "活体检测失败",
+    "live_confidence": 0.3
+  },
+  {
+    "timestamp": "2024-01-01 10:00:00",
+    "access_granted": true,
+    "employee_id": "EMP001",
+    "similarity": 0.85,
+    "live_confidence": 0.92
+  },
+  {
+    "timestamp": "2024-01-01 10:05:00",
+    "access_granted": false,
+    "employee_id": null,
+    "reason": "活体检测失败",
+    "live_confidence": 0.3
+  }
+]

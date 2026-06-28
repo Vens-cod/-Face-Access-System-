@@ -1,0 +1,14 @@
+{
+  "EMP002": {
+    "employee_id": "EMP002",
+    "name": "李四",
+    "face_id": "cbetmfGD",
+    "registered_at": "2026-04-27 17:49:51",
+    "attributes": {
+      "age": 30,
+      "mask": "none",
+      "expression": "happy",
+      "quality_score": 0.455078125
+    }
+  }
+}

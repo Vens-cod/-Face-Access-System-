@@ -1,0 +1,11 @@
+{
+  "EMP001": {
+    "employee_id": "EMP001",
+    "name": "张三",
+    "face_id": "face_xxx",
+    "registered_at": "2024-01-01 12:00:00",
+    "attributes": {
+      "age": 25
+    }
+  }
+}
