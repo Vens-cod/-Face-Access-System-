@@ -9,9 +9,9 @@ class Config:
     """
     # ==================== 华为云 FRS(人脸识别)配置 ====================
     # 从环境变量读取(建议⽣产/演示都⽤环境变量覆盖,避免泄露)
-    HUAWEI_AK = os.getenv('HUAWEI_AK', 'HPUAAWDHP0BM9NC8AEC5')
-    HUAWEI_SK = os.getenv('HUAWEI_SK', '8VTItCw5Lg1GIL8TUFeN2IvFFnsfNu2qu0XsnMv9')
-    HUAWEI_PROJECT_ID = os.getenv('HUAWEI_PROJECT_ID', 'c8b642bd783941eeb4a29eab4577628f')
+    HUAWEI_AK = os.getenv('HUAWEI_AK', '')
+    HUAWEI_SK = os.getenv('HUAWEI_SK', '')
+    HUAWEI_PROJECT_ID = os.getenv('HUAWEI_PROJECT_ID', '')
     HUAWEI_PROJECT_NAME = os.getenv('HUAWEI_PROJECT_NAME', 'cn-north-4')
     HUAWEI_REGION = os.getenv('HUAWEI_REGION', 'cn-north-4')
 
