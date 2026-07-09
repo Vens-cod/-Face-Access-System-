@@ -3,4 +3,4 @@
 
 config.py 需要改好你自己的华为云密钥那些
 test.jpg ~ test6.jpg 是测试图片
-
+暂待完善自述文件
